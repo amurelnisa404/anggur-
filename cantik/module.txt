@@ -1,5 +1,7 @@
 pip install colorama
 pip install bs4 
+pip install emoji
+pip install login
 pip install faker
 pip install requests 
 pip install psutil
